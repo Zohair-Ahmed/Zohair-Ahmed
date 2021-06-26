@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zohair-Ahmed
-- 👀 I’m interested in learning how to create and manage software for millions of people and data mining.
-- 🌱 I’m currently learning NodeJS and the React library, Kubernetes and Docker.
+- 👀 I’m interested in learning how to create and manage software for millions of people and using software for data mining.
+- 🌱 I’m currently learning TensorFlow to take my first step into the world of machine learning and data mining.
 - 💞️ I’m looking to collaborate on any software project that can help me improve my backend skills.
 - 📫 How to reach me is by email, zohair.a99@gmail.com
 
